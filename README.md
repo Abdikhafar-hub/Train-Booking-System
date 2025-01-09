@@ -1,4 +1,5 @@
-Here is a structured version of your README file:
+Link to ERD 
+https://dbdiagram.io/d/677fe0a86b7fa355c36936f4
 
 # Train Booking System
 
