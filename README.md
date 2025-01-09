@@ -68,7 +68,7 @@ LEFT JOIN Bookings b ON t.TrainID = b.TrainID
 GROUP BY t.TrainID;
 Project Structure
 perl
-Copy code
+
 train-booking-system/
 ├── train_booking.db      # SQLite database file
 ├── booking.sql           # Schema definition for the database
