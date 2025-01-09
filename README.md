@@ -98,6 +98,8 @@ train-booking-system/
     git push origin feature-name
     ```
 5. Open a pull request.
+6. link to ERD
+7. https://dbdiagram.io/d/677fe0a86b7fa355c36936f4
 
 ## Future Improvements
 - Add more tables for additional features, such as train employees or maintenance schedules.
